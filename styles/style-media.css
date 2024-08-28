@@ -31,7 +31,7 @@ body {
   width: 300px;
   border-radius: 10px;
 }
-.media video {
+.media iframe {
   height: 400px;
   width: 300px;
   border-radius: 10px;
